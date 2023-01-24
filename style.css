@@ -16,3 +16,13 @@ li:hover{
     color:darkviolet;
     
 }
+nav li{
+    display: inline;
+    background-color: darkmagenta;
+    padding: 12px; 
+    color: white; 
+}
+
+nav li a{
+    color: white; 
+}
