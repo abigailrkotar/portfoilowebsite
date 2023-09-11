@@ -26,3 +26,17 @@ nav li{
 nav li a{
     color: white; 
 }
+
+#resume
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    line-height: 5vh;
+    text-align: center;
+}
+
+#resume-title
+{
+    color: blueviolet;
+}
