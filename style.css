@@ -1,5 +1,5 @@
 body{
-    background-color: #FFE5F3;
+    background-color: hsl(328, 100%, 95%);
     padding: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: darkslategray; 
@@ -51,4 +51,25 @@ nav li a{
 .important{
     color: black;
     
+}
+
+#project-nav{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: center; 
+    text-align: center;
+    
+}
+
+#project-nav li{
+    background-color: palevioletred;
+    padding: 1%;
+    color: none;
+    border: 10px solid hsl(328, 100%, 95%); 
+    
+}
+
+#project-nav li a{
+    color: white; 
 }
