@@ -73,3 +73,9 @@ nav li a{
 #project-nav li a{
     color: white; 
 }
+
+main {
+    padding: 2%; 
+    background-color: #FAF9F6;
+    text-align: center;
+}
