@@ -12,7 +12,7 @@ header h1{
     padding-bottom: 5px;
     
 }
-li:hover{
+nav li:hover{
     color:darkviolet;
     
 }
@@ -27,26 +27,13 @@ nav li a{
     color: white; 
 }
 
-#resume
-{
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: white;
-    line-height: 5vh;
-    text-align: center;
-}
 
 .title
 {
     color: blueviolet;
 }
 
-#resume-pdf{
-    text-align: center;
-    padding-top: 5px;
-    padding-left: 15%;
-    padding-right: 15%;
-}
+
 
 .important{
     color: black;
@@ -82,4 +69,8 @@ main {
 
 li {
     list-style-type: none; 
+}
+
+.resume {
+    line-height: 200%;
 }
