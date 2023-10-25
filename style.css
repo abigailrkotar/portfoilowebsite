@@ -79,3 +79,7 @@ main {
     background-color: #FAF9F6;
     text-align: center;
 }
+
+li {
+    list-style-type: none; 
+}
